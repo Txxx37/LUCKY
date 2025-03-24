@@ -1,2 +1,2 @@
 # LUCKY
-hello!
+hello!There is a measure.
