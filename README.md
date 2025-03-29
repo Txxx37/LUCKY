@@ -1,3 +1,2 @@
 # LUCKY
-hello!
-改好啦
+hello!There is a measure.改好啦
